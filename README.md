@@ -1,4 +1,4 @@
-#📸 Photography Sidebar Menu – HTML & CSS Mini Project
+📸 Photography Sidebar Menu – HTML & CSS Mini Project
 
 This is a simple and clean Photography-themed Sidebar Menu UI built using pure HTML and CSS. The project demonstrates how a responsive and interactive navigation menu can be created without using JavaScript, only with CSS techniques.
 
